@@ -1,14 +1,14 @@
 **Olá, eu sou o Ryan Rocha Cardoso! 👋**
 
 **🚀 Sobre Mim**
-[cite_start]Sou estudante do Ensino Médio na Escola SESI Milton Santos (Camaçari/BA) com foco e paixão voltados para a Tecnologia da Informação[cite: 1, 7, 15]. [cite_start]Atuo como **criador de jogos premiado**, **especialista em gamificação** e **aprendiz em Ciência de Dados**[cite: 10, 21, 28]. 
+Sou estudante do Ensino Médio na Escola SESI Milton Santos (Camaçari/BA) com foco e paixão voltados para a Tecnologia da Informação[cite: 1, 7, 15]. [cite_start]Atuo como **criador de jogos premiado**, **especialista em gamificação** e **aprendiz em Ciência de Dados**[cite: 10, 21, 28]. 
 
-[cite_start]Misturo lógica de programação, psicologia de engajamento dos jogos e o poder dos dados para projetar soluções digitais e experiências imersivas[cite: 15, 16, 19]. [cite_start]Tenho facilidade com dinâmicas interdisciplinares (STEAM) e forte desenvolvimento em competências socioemocionais[cite: 42, 44].
+Misturo lógica de programação, psicologia de engajamento dos jogos e o poder dos dados para projetar soluções digitais e experiências imersivas[cite: 15, 16, 19]. [cite_start]Tenho facilidade com dinâmicas interdisciplinares (STEAM) e forte desenvolvimento em competências socioemocionais[cite: 42, 44].
 
-- [cite_start]🏆 **Campeão de Criação de Jogos:** Conquistei o 1º lugar como melhor projeto no curso de desenvolvimento da Cidade do Saber, com destaque em TV aberta e jornais locais[cite: 11, 21].
-- [cite_start]🎓 **Educação:** Cursando o Ensino Médio (Previsão de conclusão: 2027)[cite: 7].
-- [cite_start]🎯 **Foco Atual:** Engenharia de Software, Criação de Jogos Digitais e aprofundamento em Ciência de Dados[cite: 15, 16, 28].
-- [cite_start]🌍 **Idiomas:** Português (Avançado) e Inglês (Avançado)[cite: 40].
+- 🏆 **Campeão de Criação de Jogos:** Conquistei o 1º lugar como melhor projeto no curso de desenvolvimento da Cidade do Saber, com destaque em TV aberta e jornais locais[cite: 11, 21].
+- 🎓 **Educação:** Cursando o Ensino Médio (Previsão de conclusão: 2027)[cite: 7].
+- 🎯 **Foco Atual:** Engenharia de Software, Criação de Jogos Digitais e aprofundamento em Ciência de Dados[cite: 15, 16, 28].
+- 🌍 **Idiomas:** Português (Avançado) e Inglês (Avançado)[cite: 40].
 
 ---
 
@@ -37,18 +37,18 @@
 
 **🧠 Meu Arsenal de Habilidades**
 
-* [cite_start]**Game Design Completo:** Experiência prática cuidando do roteiro, design de fases, mecânicas de colisões, loops de jogabilidade e testes de qualidade[cite: 12, 20].
-* [cite_start]**UX & Gamificação:** Aplicação de sistemas de pontuação, lógica de conquistas e barras de progresso para retenção de usuários[cite: 15, 20].
-* [cite_start]**Ciência de Dados (Em evolução):** Raciocínio lógico estruturado, introdução à automação e análise de dados com Python[cite: 22, 28].
-* [cite_start]**Interdisciplinaridade & Soft Skills:** Pensamento crítico em projetos STEAM, liderança colaborativa, expressão criativa e inteligência emocional[cite: 42, 44, 48, 49].
+* **Game Design Completo:** Experiência prática cuidando do roteiro, design de fases, mecânicas de colisões, loops de jogabilidade e testes de qualidade[cite: 12, 20].
+* **UX & Gamificação:** Aplicação de sistemas de pontuação, lógica de conquistas e barras de progresso para retenção de usuários[cite: 15, 20].
+* **Ciência de Dados (Em evolução):** Raciocínio lógico estruturado, introdução à automação e análise de dados com Python[cite: 22, 28].
+***Interdisciplinaridade & Soft Skills:** Pensamento crítico em projetos STEAM, liderança colaborativa, expressão criativa e inteligência emocional[cite: 42, 44, 48, 49].
 
 ---
 
 **📁 Projetos em Destaque**
 
 **1. 🏆 [Jogo Campeão (Scratch)](https://scratch.mit.edu/projects/785623284)**
-* [cite_start]**Descrição:** Jogo digital completo vencedor de campeonato na Cidade do Saber (Camaçari/BA)[cite: 11, 21]. [cite_start]O projeto foi avaliado e premiado em 1º lugar pelos critérios de maior criatividade, inovação técnica e jogabilidade envolvente[cite: 20, 21].
-* [cite_start]**O que usei:** Programação em blocos, lógica de eventos, interface de usuário dinâmica, efeitos sonoros e inteligência de jogo[cite: 12, 19, 28].
+* **Descrição:** Jogo digital completo vencedor de campeonato na Cidade do Saber (Camaçari/BA)[cite: 11, 21]. [cite_start]O projeto foi avaliado e premiado em 1º lugar pelos critérios de maior criatividade, inovação técnica e jogabilidade envolvente[cite: 20, 21].
+* **O que usei:** Programação em blocos, lógica de eventos, interface de usuário dinâmica, efeitos sonoros e inteligência de jogo[cite: 12, 19, 28].
 
 **2. 💼 [Meu Portfólio Interativo - Microsoft Sway](https://sway.cloud.microsoft/YTvsOyUmUKoQVj2G?ref=email)**
 * **Descrição:** Apresentação rica e detalhada da minha jornada na tecnologia, englobando meus principais projetos práticos, criações visuais e conquistas acadêmicas.
