@@ -1,58 +1,57 @@
-**Olá, eu sou o Ryan Rocha Cardoso! 👋**
+# Olá, eu sou o Ryan Rocha Cardoso! 👋
 
-**🚀 Sobre Mim**
-Sou estudante do Ensino Médio na Escola SESI Milton Santos (Camaçari/BA) com foco e paixão voltados para a Tecnologia da Informação[cite: 1, 7, 15]. [cite_start]Atuo como **criador de jogos premiado**, **especialista em gamificação** e **aprendiz em Ciência de Dados**[cite: 10, 21, 28]. 
+🚀 **Desenvolvedor Front-End | Criador de Jogos Premiado | Estudante de Engenharia de Software & Ciência de Dados**
 
-Misturo lógica de programação, psicologia de engajamento dos jogos e o poder dos dados para projetar soluções digitais e experiências imersivas[cite: 15, 16, 19]. [cite_start]Tenho facilidade com dinâmicas interdisciplinares (STEAM) e forte desenvolvimento em competências socioemocionais[cite: 42, 44].
-
-- 🏆 **Campeão de Criação de Jogos:** Conquistei o 1º lugar como melhor projeto no curso de desenvolvimento da Cidade do Saber, com destaque em TV aberta e jornais locais[cite: 11, 21].
-- 🎓 **Educação:** Cursando o Ensino Médio (Previsão de conclusão: 2027)[cite: 7].
-- 🎯 **Foco Atual:** Engenharia de Software, Criação de Jogos Digitais e aprofundamento em Ciência de Dados[cite: 15, 16, 28].
-- 🌍 **Idiomas:** Português (Avançado) e Inglês (Avançado)[cite: 40].
+Sou estudante do Ensino Médio na **Escola SESI Milton Santos (Camaçari/BA)** com uma trajetória focada na construção de soluções digitais imersivas, funcionais e centradas no usuário. Combino lógica de programação, prototipagem UI/UX, metodologias modernas de desenvolvimento e conceitos da Indústria 4.0.
 
 ---
 
-**🛠️ Tecnologias e Ferramentas**
+### 🌟 Destaques & Conquistas
 
-**🕹️ Game Dev & Gamificação**
-![Scratch](https://img.shields.io/badge/Scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
-
-**📊 Ciência de Dados & Lógica**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**🎨 Edição de Imagem & Design**
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Picsart](https://img.shields.io/badge/Picsart-FF4D82?style=for-the-badge&logo=picsart&logoColor=white)
-
-**🧰 Produtividade**
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white)
+- 🏆 **1º Lugar no Campeonato de Criação de Jogos (Cidade do Saber - Camaçari/BA):** Projeto premiado por inovação técnica, mecânicas envolventes e lógica de jogo. Destaque em veículos de imprensa local e TV aberta.
+- 🎨 **Prototipagem UI/UX & Front-End:** Criação de interfaces responsivas e acessíveis com Figma, HTML5 semântico e CSS3 avançado (Flexbox, Grid e Bootstrap).
+- 🧠 **Metodologias & Projetos:** Domínio do ciclo de vida de software, desde a ideação, modelagem e arquitetura de hardware/software até o versionamento colaborativo com Git/GitHub.
 
 ---
 
-**🧠 Meu Arsenal de Habilidades**
+### 🛠️ Competências & Tecnologias
 
-* **Game Design Completo:** Experiência prática cuidando do roteiro, design de fases, mecânicas de colisões, loops de jogabilidade e testes de qualidade[cite: 12, 20].
-* **UX & Gamificação:** Aplicação de sistemas de pontuação, lógica de conquistas e barras de progresso para retenção de usuários[cite: 15, 20].
-* **Ciência de Dados (Em evolução):** Raciocínio lógico estruturado, introdução à automação e análise de dados com Python[cite: 22, 28].
-***Interdisciplinaridade & Soft Skills:** Pensamento crítico em projetos STEAM, liderança colaborativa, expressão criativa e inteligência emocional[cite: 42, 44, 48, 49].
+#### 💻 **Desenvolvimento Front-End & Lógica**
+`HTML5 Semântico` | `CSS3 (Flexbox / Grid / Bootstrap)` | `JavaScript (Lógica de Programação)` | `Git & GitHub` | `Arquitetura de Hardware e Software`
+
+#### 🎨 **UI/UX & Design de Experiência**
+`Figma (Prototipagem & Wireframes)` | `Design System` | `Gamificação & UX` | `Ideação e Modelagem de Projetos`
+
+#### ⚙️ **Gestão, Indústria & Metodologias**
+`Metodologias de Desenvolvimento de Projetos` | `Indústria 4.0` | `Sustentabilidade Industrial` | `Qualidade & Produtividade` | `Saúde e Segurança no Trabalho (SST)`
+
+---
+
+### 📁 Projetos em Destaque
+
+#### 🏆 1. Jogo Campeão (Scratch & Game Design)
+- **Descrição:** Jogo digital completo focado em retenção do usuário, física de colisões, loops de jogabilidade e inteligência de jogo.
+- **Conceitos aplicados:** Lógica de eventos, gamificação, arquitetura de informação e testes de usabilidade.
+
+#### 💻 2. Interfaces Responsivas & Sistemas Web (Front-End & UI/UX)
+- **Descrição:** Aplicações web desenvolvidas com foco em código semântico, arquitetura modular e layout responsivo.
+- **Conceitos aplicados:** Figma, HTML5, CSS3 (Flexbox/Bootstrap), padrões de acessibilidade e controle de versão Git.
+
+#### 💼 3. Portfólio Interativo (Microsoft Sway)
+- **Descrição:** Centralização visual da trajetória acadêmica, conquistas e curadoria de projetos na área de TI e projetos STEAM.
 
 ---
 
-**📁 Projetos em Destaque**
+### 🌐 Idiomas & Formação
 
-**1. 🏆 [Jogo Campeão (Scratch)](https://scratch.mit.edu/projects/785623284)**
-* **Descrição:** Jogo digital completo vencedor de campeonato na Cidade do Saber (Camaçari/BA)[cite: 11, 21]. [cite_start]O projeto foi avaliado e premiado em 1º lugar pelos critérios de maior criatividade, inovação técnica e jogabilidade envolvente[cite: 20, 21].
-* **O que usei:** Programação em blocos, lógica de eventos, interface de usuário dinâmica, efeitos sonoros e inteligência de jogo[cite: 12, 19, 28].
-
-**2. 💼 [Meu Portfólio Interativo - Microsoft Sway](https://sway.cloud.microsoft/YTvsOyUmUKoQVj2G?ref=email)**
-* **Descrição:** Apresentação rica e detalhada da minha jornada na tecnologia, englobando meus principais projetos práticos, criações visuais e conquistas acadêmicas.
-* **O que usei:** Design de comunicação digital, arquitetura de informação e curadoria de projetos.
+- **Educação:** Ensino Médio - Escola SESI Milton Santos (Previsão de conclusão: 2027).
+- **Idiomas:** Português (Avançado) | Inglês (Avançado).
 
 ---
+
+📬 **Vamos conversar?**
+- 💼 LinkedIn: [Seu Link do LinkedIn]
+- 📧 E-mail: [Seu E-mail]
 
 **📊 Estatísticas do GitHub**
 
